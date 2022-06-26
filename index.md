@@ -15,6 +15,12 @@ Travel the regions catching exclusive, legendary and shiny Pokémon, Capture you
 
 ---
 
+## DOC INDEX
+
+* [`Minigames`](./minigames.md): A guide to bot's minigames.
+
+---
+
 ## How is <$botname> different from other Pokémon bots on discord.
 
 - Players are allowed to choose their own character from over 600+ characters and customize their profile.
