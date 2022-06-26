@@ -1,3 +1,5 @@
+![](./assets/banner.png)
+
 # <$botname>
 
 <$botname> is a Discord Bot based on the Pokémon Anime.
