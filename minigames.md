@@ -1,6 +1,6 @@
 # MINIGAMES
 
-<img src="./assets/whos_that_pokemon.png" height = 400>
+<img src="./assets/whos_that_pokemon.png" width = 400>
 
 Play minigames and earn rewards!
 
