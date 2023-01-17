@@ -30,15 +30,16 @@ Please read these Terms carefully because by accepting these Terms of Service, o
 You are not permitted to access the service in any way if you disagree with any of these conditions.
 
 By using the Services, you give us permission to access specific data from your account for the purposes of providing the Services. We will keep your login details on file, but we won't gather any data that could jeopardise the security of your account's privacy.
+
 You must be careful not to use our services in a way that:
-	- breaches or infringes upon someone else's intellectual property rights.
-	- violates any applicable export control rules, privacy laws, or serves a purpose that is not properly intended by us, among other laws or regulations.
-	- is harmful, false, harassing, threatening, vulgar, or in any other way objectionable.
-  	- compromises the security of your account or the account of any other person (such as exposing login credentials).
-	- attempts to discover another user's password, account information, or other security details in any way.
-	- efforts to prevent the Services from operating properly.
-	- utilising a bug or letting other players know about one that offers you an unfair edge over other players any programme that facilitates gaining an unfair advantage over other gamers.
-	- receiving advantages from a violator of these terms
+- breaches or infringes upon someone else's intellectual property rights.
+- violates any applicable export control rules, privacy laws, or serves a purpose that is not properly intended by us, among other laws or regulations.
+- is harmful, false, harassing, threatening, vulgar, or in any other way objectionable.
+- compromises the security of your account or the account of any other person (such as exposing login credentials).
+- attempts to discover another user's password, account information, or other security details in any way.
+- efforts to prevent the Services from operating properly.
+- utilising a bug or letting other players know about one that offers you an unfair edge over other players any programme that facilitates gaining an unfair advantage over other gamers.
+- receiving advantages from a violator of these terms
 
 If you violate any of the aforementioned terms, we reserve the right to immediately cancel or suspend your access to the Services without warning and at our sole discretion.
 If you are unsure if a particular behaviour will violate the terms of service or not, please contact the company and have them confirm it.
