@@ -34,7 +34,7 @@ You must be careful not to use our services in a way that:
 	- breaches or infringes upon someone else's intellectual property rights.
 	- violates any applicable export control rules, privacy laws, or serves a purpose that is not properly intended by us, among other laws or regulations.
 	- is harmful, false, harassing, threatening, vulgar, or in any other way objectionable.
-  - compromises the security of your account or the account of any other person (such as exposing login credentials).
+  	- compromises the security of your account or the account of any other person (such as exposing login credentials).
 	- attempts to discover another user's password, account information, or other security details in any way.
 	- efforts to prevent the Services from operating properly.
 	- utilising a bug or letting other players know about one that offers you an unfair edge over other players any programme that facilitates gaining an unfair advantage over other gamers.
