@@ -14,6 +14,7 @@ These are the rules that apply to using this service as well as the contract bet
 Your acceptance of and adherence to these Terms and Conditions will govern your access to and use of the Service. All users, visitors, and other individuals who access or use the Service are subject to these Terms and Conditions.
 
 You consent to being bound by these Terms and Conditions by accessing or using the Service. You are not permitted to access the Service if You Disagree With Any Portion Of These Terms And Conditions.
+
 Terms of Service
 ================
 
